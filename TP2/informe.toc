@@ -1,0 +1,26 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Resumen}{2}{section.1}
+\contentsline {section}{\numberline {2}Introducci\IeC {\'o}n}{2}{section.2}
+\contentsline {section}{\numberline {3}An\IeC {\'a}lisis preliminar}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}An\IeC {\'a}lisis de relaci\IeC {\'o}n entre sets de datos}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Adaptaci\IeC {\'o}n de los datos}{4}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Creaci\IeC {\'o}n de nuevos \textit {features}}{4}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Transformaci\IeC {\'o}n de datos de tipo categor\IeC {\'\i }a}{5}{subsubsection.3.2.2}
+\contentsline {section}{\numberline {4}An\IeC {\'a}lisis de la soluci\IeC {\'o}n}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}T\IeC {\'e}cnicas empleadas}{5}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Boosting}{5}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Cross-Validation}{5}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Algoritmos empleados}{5}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Linear Regression}{6}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Decision Tree Regression}{6}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Lasso y Elastic Net Regressor}{6}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}Ridge Regressor}{6}{subsubsection.4.2.4}
+\contentsline {subsubsection}{\numberline {4.2.5}SGD Regressor}{6}{subsubsection.4.2.5}
+\contentsline {subsubsection}{\numberline {4.2.6}XGB Boost Regressor}{6}{subsubsection.4.2.6}
+\contentsline {subsubsection}{\numberline {4.2.7}SVR Regressor}{7}{subsubsection.4.2.7}
+\contentsline {subsubsection}{\numberline {4.2.8}Random Forest Regressor}{7}{subsubsection.4.2.8}
+\contentsline {section}{\numberline {5}Resultados obtenidos y an\IeC {\'a}lisis}{8}{section.5}
+\contentsline {subsection}{\numberline {5.1}An\IeC {\'a}lisis de los resultados}{8}{subsection.5.1}
+\contentsline {section}{\numberline {6}Conclusiones}{9}{section.6}
+\contentsline {subsection}{\numberline {6.1}Posibles mejoras}{9}{subsection.6.1}
+\contentsline {section}{\numberline {7}Referencias consultadas}{9}{section.7}
